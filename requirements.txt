@@ -1,0 +1,9 @@
+os
+re
+requests
+pandas
+nltk
+BeautifulSoup
+word_tokenize 
+sent_tokenize
+cmudict
