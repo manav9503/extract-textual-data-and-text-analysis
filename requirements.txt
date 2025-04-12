@@ -1,5 +1,6 @@
 streamlit
-nltk
 requests
 pandas
 beautifulsoup4
+nltk
+openpyxl
