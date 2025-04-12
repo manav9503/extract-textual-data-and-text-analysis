@@ -1,8 +1,5 @@
-os
-re
+streamlit
+nltk
 requests
 pandas
-BeautifulSoup
-word_tokenize 
-sent_tokenize
-cmudict
+beautifulsoup4
